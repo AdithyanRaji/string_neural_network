@@ -299,7 +299,7 @@ If your notebook has a different filename, replace `MNIST_Digit_Recognizer.ipynb
 Clone the repository:
 
 ```bash
-git clone https://github.com/AdithyanRaji/MNIST-Digit-Recognizer.git
+git clone https://github.com/AdithyanRaji/string_neural_network.git
 ```
 
 Navigate into the project:
